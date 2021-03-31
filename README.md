@@ -1,1 +1,1 @@
-# Stock-Price-Prediction-Using-News
+# Stock-Price-Prediction-Using-News-Headlines
